@@ -10,11 +10,11 @@ Accomplish the following main tasks:
 
 ## Testing the bot
 - Amazon Lex bot with a single intent
-  <img src="testBot/"FinTech-Module15-1 Amazon Lex.mp4">
+  <img src="testBot/FinTech-Module15-1 Amazon Lex.mp4">
 
 - Enhanced robo advisor with an Amazon Lambda function
 1. Case 1 - normal operation
-  <img src="testBot/"FinTech-Module15-2-normal Amazon Lex.mp4">
+  <img src="testBot/FinTech-Module15-2-normal Amazon Lex.mp4">
 
 2. Case 2 - error handling
- <img src="testBot/"FinTech-Module15-2-errorCases Amazon Lex.mp4">
+ <img src="testBot/FinTech-Module15-2-errorCases Amazon Lex.mp4">
